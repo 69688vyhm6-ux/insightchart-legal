@@ -71,7 +71,7 @@ InsightChart運営事務局(以下「当方」といいます) は、当方が�
 本ポリシーに関するお問い合わせは、以下までご連絡ください。
 
 - 運営者名：InsightChart運営事務局
-- 連絡先メールアドレス：insightchart.suppport@gmail.com
+- 連絡先メールアドレス：insightchart.support@gmail.com
 
 ## 8. 本ポリシーの変更
 
